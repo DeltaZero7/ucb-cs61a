@@ -1,0 +1,10 @@
+# ok storage file
+*.bak
+*.dat
+*.dir
+.ok_messages
+.ok_history
+
+# python cache file
+__pycache__
+
